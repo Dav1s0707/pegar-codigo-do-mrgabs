@@ -1,0 +1,30 @@
+html{
+    height: 100%;
+    background: rgb(34,10,55);
+    background: linear-gradient(150deg, rgba(34,10,55,1) 0%, rgba(46,9,121,1) 47%, rgba(0,245,255,1) 120%);
+}
+
+body{
+    color: rgb(216, 63, 116);
+}
+input{
+    font-style: italic;
+    color: rgb(69, 112, 177);
+}
+label{
+    font-size: 1.5rem;
+}
+textarea{
+    color: rgb(67, 151, 151);
+    
+}
+marquee{
+    color: rgb(190, 62, 180);
+    font-size: 1.5rem;
+}
+
+.abc{
+    color: darkcyan;
+    font-size: 1.5rem;
+}
+
